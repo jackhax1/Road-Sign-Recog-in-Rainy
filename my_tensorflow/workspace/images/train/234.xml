@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Export</folder>
+	<filename>234.jpg</filename>
+	<path>D:\Assignment\FYP\my_tensorflow\Export\234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>90</ymin>
+			<xmax>234</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>
